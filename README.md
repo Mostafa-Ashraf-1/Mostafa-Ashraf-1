@@ -8,8 +8,6 @@ Fourth-year Computer Science student at Helwan National University focused on AI
 computer vision systems, and end-to-end ML pipelines. Experienced in model evaluation, FastAPI-based serving, Docker, MLflow, DVC, automated testing,
 and CI/CD, with an interest in reliable AI deployment and monitoring.
 
- &nbsp;I'm currently learning **NLP, Transfer Learning, Hugging Face, MLOps**
-
 ### Tech Stack
 
 <p align="left">
