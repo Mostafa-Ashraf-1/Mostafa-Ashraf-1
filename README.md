@@ -4,11 +4,9 @@
 
 ### About Me
 
-Fourth-year Computer Science student with a strong interest in Machine Learning, Deep Learning,  
-and AI systems. Experienced in implementing machine learning algorithms and neural networks  
-from scratch before transitioning to PyTorch for modern deep learning workflows. Passionate about  
-Computer Vision, NLP, and building practical AI solutions while expanding my knowledge of  
-MLOps
+Fourth-year Computer Science student at Helwan National University focused on AI engineering, with hands-on experience building NLP applications,
+computer vision systems, and end-to-end ML pipelines. Experienced in model evaluation, FastAPI-based serving, Docker, MLflow, DVC, automated testing,
+and CI/CD, with an interest in reliable AI deployment and monitoring.
 
  &nbsp;I'm currently learning **NLP, Transfer Learning, Hugging Face, MLOps**
 
